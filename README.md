@@ -104,6 +104,7 @@ The following equipment and tools were utilized during the laboratory session:
 - The **charging time** is directly proportional to the resistance value.  
   An increase in resistance increases the **time constant**<br>  
    $$\tau = RC$$
+   
   resulting in a longer time required for the capacitor to reach full charge.
 - A **phase difference** was observed between the input source signal and the capacitor voltage during simulation.
 
