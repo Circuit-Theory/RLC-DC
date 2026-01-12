@@ -54,7 +54,7 @@
 
 ---
 
-## Project Overview
+# Project Overview
 
 This project, titled **"RLC Components, Transient Response"** (Project 2), was conducted as part of the **Circuit Theory** course at the **University of West Attica (UNIWA)**, within the **Department of Informatics and Computer Engineering**.  
 
@@ -143,7 +143,7 @@ The following equipment and tools were utilized during the laboratory session:
 - The transient response is characterized by an **exponential increase or decrease of current** following a switching event, consistent with theoretical expectations.
 
 ---
-## Installation Guide
+# Installation Guide
 
 Clone this repository to your local machine. 
 ```bash
