@@ -20,20 +20,39 @@
 
 <p align="center">
   <strong>Vasileios Evangelos Athanasiou</strong><br>
-  Student ID: 19390005<br>
+  Student ID: 19390005
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ath21" target="_blank">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/vasilis-athanasiou-7036b53a4/" target="_blank">LinkedIn</a>
+</p>
+
+<p align="center">
   <strong>Nikolaos Katsos</strong><br>
   Student ID: 21390084
 </p>
 
+
 <p align="center">
-  Supervisor: Christos Kampouris, Laboratory Teaching Staff<br>
+  Supervisor: Christos Kampouris, Laboratory Teaching Staff
+</p>
+<p align="center">
+  <a href="https://www.syros.aegean.gr/en/staff/research-staff/phd-candidates/christos-kampouris" target="_blank">UNIWA Profile</a>
+</p>
+
+<p align="center">
   Co-supervisor: Georgios Antoniou, Laboratory Teaching Staff
+</p>
+<p align="center">
+  <a href="https://ice.uniwa.gr/en/emd_person/georgios-antoniou/" target="_blank">UNIWA Profile</a>
 </p>
 
 <p align="center">
   Athens, May 2022
 </p>
 
+---
 
 ## Project Overview
 
@@ -49,11 +68,19 @@ The primary objective of the project was to analyze and observe the **transient 
 
 ## Table of Contents
 
-| Section | Title          | Description                                    |
-|--------:|----------------|------------------------------------------------|
-| assign  | Assignment     | Contains assignments and tasks                 |
-| docs    | Documentation  | Project documentation, guides, and notes       |
-| multisim     | Multisim    | All souce multisim files implementing the circuits      |
+| Section | Folder | Description |
+|------:|--------|-------------|
+| 1 | `assign/` | Assignment material for the Circuit Theory course (DC RLC circuits) |
+| 1.1 | `assign/circuit theory rev2021_EXERCISE_2nd.pdf` | Assignment description in English |
+| 1.2 | `assign/θεωρία κυκλωμάτων rev2021_ΑΣΚΗΣΗ_2η.pdf` | Assignment description in Greek |
+| 2 | `docs/` | Documentation on RLC components transient response (DC analysis) |
+| 2.1 | `docs/RLC-Components-Transient-Response.pdf` | English documentation |
+| 2.2 | `docs/RLC-Εξαρτήματα-Μεταβατική-Απόκριση.pdf` | Greek documentation |
+| 3 | `multisim/` | Multisim simulations for DC RLC circuits |
+| 3.1 | `multisim/Q2.ms14` | RLC transient response simulation |
+| 3.2 | `multisim/RC.ms14` | RC circuit transient analysis |
+| 3.3 | `multisim/RL.ms14` | RL circuit transient analysis |
+| 4 | `README.md` | Repository overview and usage instructions |
 
 ---
 
