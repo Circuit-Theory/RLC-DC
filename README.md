@@ -8,6 +8,11 @@
   DEPARTMENT OF COMPUTER ENGINEERING AND INFORMATICS
 </p>
 
+<p align="center">
+  <a href="https://www.uniwa.gr" target="_blank">University of West Attica</a> ·
+  <a href="https://ice.uniwa.gr" target="_blank">Department of Computer Engineering and Informatics</a>
+</p>
+
 <hr/>
 
 <p align="center">
@@ -33,12 +38,38 @@
   Student ID: 21390084
 </p>
 
+<p align="center">
+  <a href="https://www.instagram.com/nikos_.kats/" target="_blank">Social</a>
+</p>
+
+<hr>
 
 <p align="center">
-  Supervisor: Christos Kampouris, Laboratory Teaching Staff
+  <strong>Supervision</strong>
+</p>
+
+<p align="center">
+  Supervisor: Ioannis Vogiatzis, Professor<br>
+</p>
+
+<p align="center">
+  <a href="https://ice.uniwa.gr/en/emd_person/ioannis-voyiatzis/" target="_blank">UNIWA Profile</a> ·
+  <a href="https://www.linkedin.com/in/ioannis-voyiatzis-7b5a6b88/" target="_blank">LinkedIn</a>
+</p>
+
+<p align="center">
+  Supervisor: Ioannis Amorginos, Applications Lecturer
 </p>
 <p align="center">
-  <a href="https://www.syros.aegean.gr/en/staff/research-staff/phd-candidates/christos-kampouris" target="_blank">UNIWA Profile</a>
+  <a href="https://ice.uniwa.gr/en/emd_person/ioannis-amorginos/" target="_blank">UNIWA Profile</a> ·
+  <a href="https://www.linkedin.com/in/%CE%B1%CE%BC%CE%BF%CF%81%CE%B3%CE%AF%CE%BD%CE%BF%CF%82-%CE%B3%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82-7185b088/" target="_blank">LinkedIn</a>
+</p>
+
+<p align="center">
+  Co-supervisor: Christos Kampouris, Laboratory Teaching Staff
+</p>
+<p align="center">
+  <a href="https://www.syros.aegean.gr/en/staff/research-staff/phd-candidates/christos-kampouris" target="_blank">Academic Profile</a>
 </p>
 
 <p align="center">
@@ -48,43 +79,56 @@
   <a href="https://ice.uniwa.gr/en/emd_person/georgios-antoniou/" target="_blank">UNIWA Profile</a>
 </p>
 
+</hr>
+
+---
+
 <p align="center">
   Athens, May 2022
 </p>
 
 ---
 
-# Project Overview
+<p align="center">
+  <img src="https://i.sstatic.net/vrHLd.png" width="250"/>
+</p>
 
-This project, titled **"RLC Components, Transient Response"** (Project 2), was conducted as part of the **Circuit Theory** course at the **University of West Attica (UNIWA)**, within the **Department of Informatics and Computer Engineering**.  
+---
+
+# README
+
+## RLC Components, Transient Response
+
+This project, titled **"RLC Components, Transient Response"** (Project 2), was conducted as part of the **Circuit Theory** course at the **University of West Attica (UNIWA)**, within the **Department of Informatics and Computer Engineering**.
 
 The primary objective of the project was to analyze and observe the **transient response** of **RC** and **RL** circuits through:
 
 - **Theoretical analysis**
-- **Software simulation** using *Multisim*
+- **Software simulation** using _Multisim_
 - **Physical laboratory experimentation**
 
 ---
 
 ## Table of Contents
 
-| Section | Folder | Description |
-|------:|--------|-------------|
-| 1 | `assign/` | Assignment material for the Circuit Theory course (DC RLC circuits) |
-| 1.1 | `assign/circuit theory rev2021_EXERCISE_2nd.pdf` | Assignment description in English |
-| 1.2 | `assign/θεωρία κυκλωμάτων rev2021_ΑΣΚΗΣΗ_2η.pdf` | Assignment description in Greek |
-| 2 | `docs/` | Documentation on RLC components transient response (DC analysis) |
-| 2.1 | `docs/RLC-Components-Transient-Response.pdf` | English documentation |
-| 2.2 | `docs/RLC-Εξαρτήματα-Μεταβατική-Απόκριση.pdf` | Greek documentation |
-| 3 | `multisim/` | Multisim simulations for DC RLC circuits |
-| 3.1 | `multisim/Q2.ms14` | RLC transient response simulation |
-| 3.2 | `multisim/RC.ms14` | RC circuit transient analysis |
-| 3.3 | `multisim/RL.ms14` | RL circuit transient analysis |
-| 4 | `README.md` | Repository overview and usage instructions |
+| Section | Folder                                           | Description                                                         |
+| ------: | ------------------------------------------------ | ------------------------------------------------------------------- |
+|       1 | `assign/`                                        | Assignment material for the Circuit Theory course (DC RLC circuits) |
+|     1.1 | `assign/circuit theory rev2021_EXERCISE_2nd.pdf` | Assignment description in English                                   |
+|     1.2 | `assign/θεωρία κυκλωμάτων rev2021_ΑΣΚΗΣΗ_2η.pdf` | Assignment description in Greek                                     |
+|       2 | `docs/`                                          | Documentation on RLC components transient response (DC analysis)    |
+|     2.1 | `docs/RLC-Components-Transient-Response.pdf`     | English documentation                                               |
+|     2.2 | `docs/RLC-Εξαρτήματα-Μεταβατική-Απόκριση.pdf`    | Greek documentation                                                 |
+|       3 | `multisim/`                                      | Multisim simulations for DC RLC circuits                            |
+|     3.1 | `multisim/Q2.ms14`                               | RLC transient response simulation                                   |
+|     3.2 | `multisim/RC.ms14`                               | RC circuit transient analysis                                       |
+|     3.3 | `multisim/RL.ms14`                               | RL circuit transient analysis                                       |
+|       4 | `README.md`                                      | Repository overview and usage instructions                          |
+|       5 | `INSTALL.md`                                     | Usage instructions                                                  |
 
 ---
 
-## Project Structure
+## 1. Project Structure
 
 The report is organized into the following main sections:
 
@@ -99,7 +143,7 @@ The report is organized into the following main sections:
 
 ---
 
-## Key Components and Equipment
+## 2. Key Components and Equipment
 
 The following equipment and tools were utilized during the laboratory session:
 
@@ -123,78 +167,18 @@ The following equipment and tools were utilized during the laboratory session:
 
 ---
 
-## Key Findings
+## 3. Key Findings
 
-### RC Transient Response
+### 3.1 RC Transient Response
 
 - When fully charged, a **capacitor behaves as an open circuit**, since the current flowing through it approaches zero.
 - The **charging time** is directly proportional to the resistance value.  
   An increase in resistance increases the **time constant**<br>  
    $$\tau = RC$$
-   
   resulting in a longer time required for the capacitor to reach full charge.
 - A **phase difference** was observed between the input source signal and the capacitor voltage during simulation.
 
----
-
-### RL Transient Response
+### 3.2 RL Transient Response
 
 - When the current in an RL circuit reaches its maximum value, the **inductor (coil) behaves like a short circuit**.
 - The transient response is characterized by an **exponential increase or decrease of current** following a switching event, consistent with theoretical expectations.
-
----
-
-# Installation & Setup Guide
-
-This repository contains laboratory simulations and analysis for **Circuit Theory**, focusing on **RLC series and parallel circuits** and their resonance behavior.  
-
-All simulations are implemented in **NI Multisim**.
-
----
-
-## Prerequisites
-
-### Required Software
-- **NI Multisim 14** (or later)  
-  Ensure your system meets the requirements for running `.ms14` files.  
-  Download from [NI Multisim](https://www.ni.com/en-us/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim.html).
-
-### Optional Software
-- **PDF Viewer** for documentation: `RLC-Components-Transient-Response.pdf` / `RLC-Εξαρτήματα-Μεταβατική-Απόκριση.pdf`
-
----
-
-## Installation Steps
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/Circuit-Theory/RLC-DC.git
-```
-
-### 2. Navigate to Project Directory
-```bash
-cd RLC-DC
-```
-Ensure the following folder structure exists:
-```bash
-assign/
-docs/
-multisim/
-```
-
----
-
-### 3. Open a Simulation in Multisim
-- Launch NI Multisim.
-- Select File → Open.
-- Navigate to the `multisim/` folder.
-- Open the desired `.ms14` file (series or parallel circuit).
-- Wait for the circuit topology to load.
-
----
-
-## Open the Documentation
-1. Navigate to the `docs/` directory
-2. Open the report corresponding to your preferred language:
-    - English: `RLC-Components-Transient-Response.pdf`
-    - Greek: `RLC-Εξαρτήματα-Μεταβατική-Απόκριση.pdf`
