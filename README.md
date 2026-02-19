@@ -123,7 +123,7 @@ The primary objective of the project was to analyze and observe the **transient 
 |     3.1 | `multisim/Q2.ms14`                               | RLC transient response simulation                                   |
 |     3.2 | `multisim/RC.ms14`                               | RC circuit transient analysis                                       |
 |     3.3 | `multisim/RL.ms14`                               | RL circuit transient analysis                                       |
-|       4 | `README.md`                                      | Repository overview and usage instructions                          |
+|       4 | `README.md`                                      | Repository overview                                                 |
 |       5 | `INSTALL.md`                                     | Usage instructions                                                  |
 
 ---
